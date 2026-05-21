@@ -19,4 +19,4 @@
 | [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard) | Web-based employee management system with CRUD functionality | <img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> |
 | [Friend Request](https://github.com/sajjadali-fullstack/friend-request) | 🤝 An interactive Friend Request system with real-time status updates using Vanilla JavaScript and CSS. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [Luma Landing Page](https://github.com/sajjadali-fullstack/luma-landing-page) | A modern and responsive landing page designed to showcase a clean UI and smooth layout. Built with a focus on simplicity, responsiveness, and visual appeal. |<img src="https://skillicons.dev/icons?i=html,css" height="20"/> |
-| [First index.html](https://github.com/sajjadali-fullstack/first_index.html) | Simple Hello World Webpage. |<img src="https://skillicons.dev/icons?i=html" height="20"/> |
+| [🌱 The first webpage where my web development journey started.](https://github.com/sajjadali-fullstack/first_index.html) | Simple Hello World Webpage. |<img src="https://skillicons.dev/icons?i=html" height="20"/> |
