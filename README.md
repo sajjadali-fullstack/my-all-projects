@@ -1,4 +1,3 @@
-## 💎 Sajjad Ali – Full Stack Developer 💎
 <div align="center">
   <h1>💎 Sajjad Ali – Full Stack Developer 💎</h1>
   <p><b>Passionate Full Stack Developer focused on Python, Django, Flask, REST APIs, and modern frontend development.</b></p>
@@ -23,6 +22,14 @@
 
 ---
 
+# 📈 Repository Stats
+
+- 📦 **Total Projects:** 40+ (Full-Stack, APIs & Scripts)
+- 🚀 **Active Learning Since:** 2024
+- 💻 **Main Stack:** Python, Django, Flask, JavaScript, SQL
+- 🎯 **Focus:** Backend Architecture, REST APIs & Logic Building
+
+  
 ## 🔥  Featured / Recent Projects
 
 
@@ -76,31 +83,34 @@
 
 
 
+# 🛠️ Tech Stack Experience
 
-# 🚀 Tech Stack Experience
+| Technology | Logo | Projects Completed |
+| :--- | :---: | :--- |
+| **Python** | <img src="https://skillicons.dev/icons?i=python" height="20"/> | 18+ Projects (Core & Logic) |
+| **Django** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 15+ Web Apps |
+| **Django REST Framework** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 4+ API Backends |
+| **Flask** | <img src="https://skillicons.dev/icons?i=flask" height="20"/> | 2+ Lightweight Apps |
+| **JavaScript (ES6+)** | <img src="https://skillicons.dev/icons?i=js" height="20"/> | 12+ Interactive Projects |
+| **HTML5 & CSS3** | <img src="https://skillicons.dev/icons?i=html,css" height="20"/> | 25+ Frontends Built |
+| **Bootstrap** | <img src="https://skillicons.dev/icons?i=bootstrap" height="20"/> | 5+ Responsive UIs |
+| **Tailwind CSS** | <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> | 1+ Modern UI Page |
+| **SQLite / Databases** | <img src="https://skillicons.dev/icons?i=sqlite" height="20"/> | 8+ Integrated Systems |
 
-| Technology | Projects Completed |
-|------------|-------------------|
-| HTML | 12+ |
-| HTML + CSS | 8+ |
-| JavaScript | 10+ |
-| Python | 15+ |
-| Django | 12+ |
-| Flask | 2+ |
-| Django REST Framework | 4+ |
-| Bootstrap | 5+ |
-| Tailwind CSS | 1+ |
-| SQLite | 8+ |
+---
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" alt="Sajjad's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
 ---
+
+
 
 # 🔥 Featured Projects
 
