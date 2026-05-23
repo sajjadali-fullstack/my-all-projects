@@ -22,14 +22,6 @@
 
 ---
 
-# 📈 Repository Stats
-
-- 📦 **Total Projects:** 40+ (Full-Stack, APIs & Scripts)
-- 🚀 **Active Learning Since:** 2024
-- 💻 **Main Stack:** Python, Django, Flask, JavaScript, SQL
-- 🎯 **Focus:** Backend Architecture, REST APIs & Logic Building
-
-  
 ## 🔥  Featured / Recent Projects
 
 
@@ -70,8 +62,8 @@
 | [Calculator With Theme Switcher](https://github.com/sajjadali-fullstack/calculator-with-theme-switcher) | A calculator built using HTML, CSS, and JavaScript with a light/dark theme switcher for improved usability. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [Employee Project](https://github.com/sajjadali-fullstack/employee-project) | Web-based employee management system with CRUD functionality | <img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> |
 | [Bank Management](https://github.com/sajjadali-fullstack/bank-management-python) | Python Bank Management System | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python |
-| [Factorial Number](https://github.com/sajjadali-fullstack/Factorial-Number) | Factorial | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
-| [Advance Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) |Friend Request App Profile card web application using HTML, CSS, JS, Swiper.js | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
+| [Factorial Number](https://github.com/sajjadali-fullstack/Factorial-Number) | Factorial | <img src="https://skillicons.dev/icons?i=python" height="20"/> |
+| [Advance Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app) |Friend Request App Profile card web application | <img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [Billing Software](https://github.com/sajjadali-fullstack/Billing-software) | Desktop billing system with GUI | <img src="https://skillicons.dev/icons?i=python" height="20"/> <br> Python, Tkinter |
 | [Friend Request](https://github.com/sajjadali-fullstack/friend-request) | 🤝 An interactive Friend Request system with real-time status updates using Vanilla JavaScript and CSS. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [Luma Landing Page](https://github.com/sajjadali-fullstack/luma-landing-page) | A modern and responsive landing page designed to showcase a clean UI and smooth layout. Built with a focus on simplicity, responsiveness, and visual appeal. |<img src="https://skillicons.dev/icons?i=html,css" height="20"/> |
@@ -101,12 +93,15 @@
 
 ---
 
+Markdown
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight" alt="Sajjad's GitHub Stats" height="180" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
+
 
 ---
 
