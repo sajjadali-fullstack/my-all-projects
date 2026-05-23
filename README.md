@@ -179,5 +179,6 @@ Markdown
 
 <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/DRF-Red?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
 
 ⭐ If you like my work, consider giving a star to the repositories!
