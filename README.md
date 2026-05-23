@@ -1,5 +1,27 @@
-# my-all-projects
+## 💎 Sajjad Ali – Full Stack Developer 💎
+<div align="center">
+  <h1>💎 Sajjad Ali – Full Stack Developer 💎</h1>
+  <p><b>Passionate Full Stack Developer focused on Python, Django, Flask, REST APIs, and modern frontend development.</b></p>
+  <p>Building projects daily and continuously improving through hands-on learning. 💻🔥</p>
 
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </p>
+</div>
+
+---
+
+
+# 📈 Repository Stats
+
+- 📦 Total Projects: 35+
+- 🚀 Active Learning Since: 2024
+- 💻 Main Stack: Python, Django, Flask, JavaScript
+- 🎯 Focus: Backend Development & Full Stack Projects
+
+---
 
 ## 🔥  Featured / Recent Projects
 
@@ -53,22 +75,7 @@
 
 
 
-# 🚀 Sajjad Ali – Full Stack Developer
 
-Passionate Full Stack Developer focused on Python, Django, Flask, REST APIs, and modern frontend development.
-
-Building projects daily and continuously improving through hands-on learning. 💻🔥
-
----
-
-# 📈 Repository Stats
-
-- 📦 Total Projects: 35+
-- 🚀 Active Learning Since: 2024
-- 💻 Main Stack: Python, Django, Flask, JavaScript
-- 🎯 Focus: Backend Development & Full Stack Projects
-
----
 
 # 🚀 Tech Stack Experience
 
