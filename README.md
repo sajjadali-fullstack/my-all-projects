@@ -50,3 +50,124 @@
 
 
 ---
+
+
+
+# 🚀 Sajjad Ali – Full Stack Developer
+
+Passionate Full Stack Developer focused on Python, Django, Flask, REST APIs, and modern frontend development.
+
+Building projects daily and continuously improving through hands-on learning. 💻🔥
+
+---
+
+# 📈 Repository Stats
+
+- 📦 Total Projects: 35+
+- 🚀 Active Learning Since: 2024
+- 💻 Main Stack: Python, Django, Flask, JavaScript
+- 🎯 Focus: Backend Development & Full Stack Projects
+
+---
+
+# 🚀 Tech Stack Experience
+
+| Technology | Projects Completed |
+|------------|-------------------|
+| HTML | 12+ |
+| HTML + CSS | 8+ |
+| JavaScript | 10+ |
+| Python | 15+ |
+| Django | 12+ |
+| Flask | 2+ |
+| Django REST Framework | 4+ |
+| Bootstrap | 5+ |
+| Tailwind CSS | 1+ |
+| SQLite | 8+ |
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadali-fullstack&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali-fullstack&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| [Student Management System](https://github.com/sajjadali-fullstack/student-management-flask) | Student CRUD application with add, edit, delete, and view functionality. | <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite" height="20"/> |
+| [Django DRF Employee CRUD API](https://github.com/sajjadali-fullstack/drf-employee-crud-cbv-model-seri) | REST API using Django REST Framework with CRUD operations and JSON request handling. | <img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
+| [Smart Inventory System](https://github.com/sajjadali-fullstack/smart-inventory-system) | API-driven inventory management system built with Django & DRF. | <img src="https://skillicons.dev/icons?i=python,django" height="20"/> |
+| [Flask News Portal](https://github.com/sajjadali-fullstack/flask-news-portal) | Modern responsive news portal UI using Flask and Jinja2 templates. | <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap" height="20"/> |
+| [Task Manager Django TO-DO](https://github.com/sajjadali-fullstack/django-todo-app) | Task management web app with CRUD functionality and status tracking. | <img src="https://skillicons.dev/icons?i=python,django,bootstrap" height="20"/> |
+
+---
+
+# 🚀 Django & DRF Projects
+
+- [Django Cookie Counter](https://github.com/sajjadali-fullstack/django-cookie-counter)
+- [Django Movie App](https://github.com/sajjadali-fullstack/simple-movie-django-project)
+- [Django Student Form](https://github.com/sajjadali-fullstack/django-student-form)
+- [Django Employee API](https://github.com/sajjadali-fullstack/rest-api-employee-system)
+- [Django Without REST](https://github.com/sajjadali-fullstack/django-without-rest)
+- [Django Multi-Step Session Form](https://github.com/sajjadali-fullstack/django-multi-step-session-form)
+- [django-quiz-certificates](https://github.com/sajjadali-fullstack/django-quiz-certificates)
+- [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu)
+- [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard)
+
+---
+
+# 🌐 Frontend Projects
+
+- [The Shoe Company](https://github.com/sajjadali-fullstack/footwear-ecommerce-ui)
+- [Universal Search Hub](https://github.com/sajjadali-fullstack/universal-search-hub)
+- [Frontend Roadmap Project](https://github.com/sajjadali-fullstack/pure-html-project-frontend-roadmap)
+- [Image Gallery](https://github.com/sajjadali-fullstack/image-hover-gallery)
+- [Cursor Pointer](https://github.com/sajjadali-fullstack/cursor-magic)
+- [Insta Heart Like](https://github.com/sajjadali-fullstack/insta-heart-like-project)
+- [Bulb ON / OFF Project](https://github.com/sajjadali-fullstack/bulb-on-off-project)
+- [Calculator With Theme Switcher](https://github.com/sajjadali-fullstack/calculator-with-theme-switcher)
+- [Luma Landing Page](https://github.com/sajjadali-fullstack/luma-landing-page)
+
+---
+
+# 🐍 Python Projects
+
+- [Python Daily Challenge](https://github.com/sajjadali-fullstack/python-daily-challenges)
+- [Python Daily Challenges 2](https://github.com/sajjadali-fullstack/python-daily-challenges-2)
+- [Bank Management](https://github.com/sajjadali-fullstack/bank-management-python)
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software)
+- [Factorial Number](https://github.com/sajjadali-fullstack/Factorial-Number)
+
+---
+
+# 🎨 Fun & Creative Projects
+
+- [Will You Be Mine? 💌](https://github.com/sajjadali-fullstack/propose-day-special-will-you-be-mine-forever)
+- [Valentine Dashboard 💖](https://github.com/sajjadali-fullstack/valentine-dashboard)
+- [Valentine Special Surprise 💖](https://github.com/sajjadali-fullstack/valentine-surprise)
+- [Friend Request](https://github.com/sajjadali-fullstack/friend-request)
+- [Advance Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app)
+
+---
+
+# 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,tailwind,sqlite,git,github,vscode" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+- 💼 GitHub: https://github.com/sajjadali-fullstack
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ If you like my work, consider giving a star to the repositories!
