@@ -27,6 +27,7 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [Django Page Counter (SM) ](https://github.com/sajjadali-fullstack/django-page-counter-session-expiry/blob/main/README.md) | Simple Django page view counter with expiry powered by Session Management. |<img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> |
 | [🍪 Django Cookies Management](https://github.com/sajjadali-fullstack/django-cookie-demo) | A simple Django project demonstrating cookie handling with request.COOKIES and set_cookie() across multiple user interaction pages. |<img src="https://skillicons.dev/icons?i=python,django,html" height="20"/> |
 | [Student Management System](https://github.com/sajjadali-fullstack/student-management-flask) | A simple Student Management. Includes CRUD operations like Add, Edit, Delete, and View students. |<img src="https://skillicons.dev/icons?i=python,flask,html,css" height="20"/> |
 | [Django DRF Employee CRUD API (CBV)](https://github.com/sajjadali-fullstack/drf-employee-crud-cbv-model-seri) | A Django REST Framework Employee CRUD API using (CBV), GET, POST, PUT, PATCH, & DELETE operations with JSON-based request handling and third-party test scripts using Python Requests |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
