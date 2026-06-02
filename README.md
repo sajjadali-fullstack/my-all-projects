@@ -15,7 +15,7 @@
 
 # 📈 Repository Stats
 
-- 📦 Total Projects: 35+
+- 📦 Total Projects: 50+
 - 🚀 Active Learning Since: 2024
 - 💻 Main Stack: Python, Django, Flask, JavaScript
 - 🎯 Focus: Backend Development & Full Stack Projects
