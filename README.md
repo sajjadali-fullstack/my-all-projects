@@ -27,6 +27,7 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [MY PORTFOILIO](https://sajjadali-fullstack-portfolio.netlify.app/) |  Full-Stack Developer Portfolio showcasing robust Python/Django backend systems, responsive UI designs, dynamic tech integrations, and optimized architectural flows. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [ Django Smart Exam Portal ](https://github.com/sajjadali-fullstack/django-smart-exam-portal) | A responsive online quiz application built with Django and Bootstrap 5, featuring category-based tests, difficulty filters, countdown timers, and performance tracking. |<img src="https://skillicons.dev/icons?i=python,django,boostrap,mysql" height="20"/> |
 | [Django Page Counter (SM) ](https://github.com/sajjadali-fullstack/django-page-counter-session-expiry/blob/main/README.md) | Simple Django page view counter with expiry powered by Session Management. |<img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> |
 | [🍪 Django Cookies Management](https://github.com/sajjadali-fullstack/django-cookie-demo) | A simple Django project demonstrating cookie handling with request.COOKIES and set_cookie() across multiple user interaction pages. |<img src="https://skillicons.dev/icons?i=python,django,html" height="20"/> |
