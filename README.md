@@ -27,6 +27,8 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [CRUD Employee](https://github.com/sajjadali-fullstack/django-crud-employee-management) | Django CRUD Employee Management System with Create, Read, Update, and Delete operations. |<img src="https://skillicons.dev/icons?i=python.django,html,css,bootstrap,js,sqlite" height="20"/> |
+| [Django-authentication](https://github.com/sajjadali-fullstack/django-authentication) |  A lightweight and robust User Authentication starter template built with Django 5, Python, HTML5, and custom CSS. Features secure registration, login, and session management. |<img src="https://skillicons.dev/icons?i=python.django,html,css,bootstrap,sqlite" height="20"/> |
 | [MY PORTFOILIO](https://sajjadali-fullstack-portfolio.netlify.app/) |  Full-Stack Developer Portfolio showcasing robust Python/Django backend systems, responsive UI designs, dynamic tech integrations, and optimized architectural flows. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
 | [ Django Smart Exam Portal ](https://github.com/sajjadali-fullstack/django-smart-exam-portal) | A responsive online quiz application built with Django and Bootstrap 5, featuring category-based tests, difficulty filters, countdown timers, and performance tracking. |<img src="https://skillicons.dev/icons?i=python,django,boostrap,mysql" height="20"/> |
 | [Django Page Counter (SM) ](https://github.com/sajjadali-fullstack/django-page-counter-session-expiry/blob/main/README.md) | Simple Django page view counter with expiry powered by Session Management. |<img src="https://skillicons.dev/icons?i=python,django,html,css" height="20"/> |
