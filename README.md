@@ -27,8 +27,8 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [Django Middleware](https://github.com/sajjadali-fullstack/django-execution-flow-middleware) | Django custom middleware for HTTP request-response flow logging. 16-17/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [Django ORM](https://github.com/sajjadali-fullstack/django-orm-deepdive) | Django ORM queries (Filtering, Sorting, and Context Lookups) 15/Jun/26 revision |<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,sqlite" height="20"/> |
-| [CBV Django](https://github.com/sajjadali-fullstack/django-cbv-architecture-revision) | Django Class-Based Views (CBV), exploring View and TemplateView architecture.12/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,html,css,sqlite" height="20"/> |
 | [CRUD Employee](https://github.com/sajjadali-fullstack/django-crud-employee-management) | Django CRUD Employee Management System with Create, Read, Update, and Delete operations. |<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,sqlite" height="20"/> |
 | [Django-authentication](https://github.com/sajjadali-fullstack/django-authentication) |  A lightweight and robust User Authentication starter template built with Django 5, Python, HTML5, and custom CSS. Features secure registration, login, and session management. |<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,sqlite" height="20"/> |
 | [MY PORTFOILIO](https://sajjadali-fullstack-portfolio.netlify.app/) |  Full-Stack Developer Portfolio showcasing robust Python/Django backend systems, responsive UI designs, dynamic tech integrations, and optimized architectural flows. |<img src="https://skillicons.dev/icons?i=html,css,js" height="20"/> |
