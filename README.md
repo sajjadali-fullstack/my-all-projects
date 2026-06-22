@@ -27,6 +27,7 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [Adv Django Models](https://github.com/sajjadali-fullstack/django-advance-model-mastery) | Production-grade guide to all 5 Django ORM model inheritance patterns—Abstract, Multi-Table, Multi-Level, Multiple & Proxy—with real-world use cases, schema diagrams, and query trade-offs. 20/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [Django Middleware](https://github.com/sajjadali-fullstack/django-execution-flow-middleware) | Django custom middleware for HTTP request-response flow logging. 16-17/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [Django ORM](https://github.com/sajjadali-fullstack/django-orm-deepdive) | Django ORM queries (Filtering, Sorting, and Context Lookups) 15/Jun/26 revision |<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,sqlite" height="20"/> |
 | [CRUD Employee](https://github.com/sajjadali-fullstack/django-crud-employee-management) | Django CRUD Employee Management System with Create, Read, Update, and Delete operations. |<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,sqlite" height="20"/> |
