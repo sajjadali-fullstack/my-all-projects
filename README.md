@@ -27,6 +27,7 @@
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
+| [Django REST Framework Generic Views](https://github.com/sajjadali-fullstack/drf-generic-views-employee-api) | A clean Employee Management API built with DRF's Generic Views, showing how much boilerplate you can eliminate compared to plain APIView. 30/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [DRF — APIView & ViewSet Demo](https://github.com/sajjadali-fullstack/drf-apiview-basics) | A simple Django REST Framework project demonstrating APIs using APIView and ViewSet with DefaultRouter. 28/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [Adv Django Models](https://github.com/sajjadali-fullstack/django-advance-model-mastery) | Production-grade guide to all 5 Django ORM model inheritance patterns—Abstract, Multi-Table, Multi-Level, Multiple & Proxy—with real-world use cases, schema diagrams, and query trade-offs. 20/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
 | [Django Middleware](https://github.com/sajjadali-fullstack/django-execution-flow-middleware) | Django custom middleware for HTTP request-response flow logging. 16-17/Jun/26 |<img src="https://skillicons.dev/icons?i=python,django,sqlite" height="20"/> |
