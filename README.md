@@ -13,9 +13,10 @@
 ---
 
 
+
 # 📈 Repository Stats
 
-- 📦 Total Projects: 50+
+- 📦 Total Projects: 55+
 - 🚀 Active Learning Since: 2024
 - 💻 Main Stack: Python, Django, Flask, JavaScript
 - 🎯 Focus: Backend Development & Full Stack Projects
@@ -93,16 +94,15 @@
 
 | Technology | Logo | Projects Completed |
 | :--- | :---: | :--- |
-| **Python** | <img src="https://skillicons.dev/icons?i=python" height="20"/> | 18+ Projects (Core & Logic) |
-| **Django** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 15+ Web Apps |
-| **Django REST Framework** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 4+ API Backends |
+| **Python** | <img src="https://skillicons.dev/icons?i=python" height="20"/> | 35+ Projects (Core & Logic) |
+| **Django** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 28+ Web Apps |
+| **Django REST Framework** | <img src="https://skillicons.dev/icons?i=django" height="20"/> | 6+ API Backends |
 | **Flask** | <img src="https://skillicons.dev/icons?i=flask" height="20"/> | 2+ Lightweight Apps |
-| **JavaScript (ES6+)** | <img src="https://skillicons.dev/icons?i=js" height="20"/> | 12+ Interactive Projects |
-| **HTML5 & CSS3** | <img src="https://skillicons.dev/icons?i=html,css" height="20"/> | 25+ Frontends Built |
-| **Bootstrap** | <img src="https://skillicons.dev/icons?i=bootstrap" height="20"/> | 5+ Responsive UIs |
+| **JavaScript (ES6+)** | <img src="https://skillicons.dev/icons?i=js" height="20"/> | 15+ Interactive Projects |
+| **HTML5 & CSS3** | <img src="https://skillicons.dev/icons?i=html,css" height="20"/> | 33+ Frontends Built |
+| **Bootstrap** | <img src="https://skillicons.dev/icons?i=bootstrap" height="20"/> | 10+ Responsive UIs |
 | **Tailwind CSS** | <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> | 1+ Modern UI Page |
-| **SQLite / Databases** | <img src="https://skillicons.dev/icons?i=sqlite" height="20"/> | 8+ Integrated Systems |
-
+| **SQLite / MySQL** | <img src="https://skillicons.dev/icons?i=sqlite,mysql" height="20"/> | 13+ Integrated Systems |
 ---
 
 ---
