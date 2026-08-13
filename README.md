@@ -189,6 +189,94 @@ Markdown
 
 ---
 
+
+# 🚀 Django & Backend Projects (22)
+
+- [Groq AI Chat Assistant Django](#)
+- [Adv Django Models](https://github.com/sajjadali-fullstack/django-advance-model-mastery)
+- [Django Middleware](https://github.com/sajjadali-fullstack/django-execution-flow-middleware)
+- [Django ORM](https://github.com/sajjadali-fullstack/django-orm-deepdive)
+- [CRUD Employee](https://github.com/sajjadali-fullstack/django-crud-employee-management)
+- [Django Authentication](https://github.com/sajjadali-fullstack/django-authentication)
+- [Django Smart Exam Portal](https://github.com/sajjadali-fullstack/django-smart-exam-portal)
+- [Django Page Counter (SM)](https://github.com/sajjadali-fullstack/django-page-counter-session-expiry/blob/main/README.md)
+- [Django Cookies Management](https://github.com/sajjadali-fullstack/django-cookie-demo)
+- [Django Cookie Counter](https://github.com/sajjadali-fullstack/django-cookie-counter)
+- [Django Movie App](https://github.com/sajjadali-fullstack/simple-movie-django-project)
+- [Django Student Form](https://github.com/sajjadali-fullstack/django-student-form)
+- [Django Without REST](https://github.com/sajjadali-fullstack/django-without-rest)
+- [TODOHUB](https://github.com/sajjadali-fullstack/advance-django-todo-hub)
+- [GreatKart](https://github.com/sajjadali-fullstack/great-kart)
+- [GenzKart](https://github.com/sajjadali-fullstack/genz-kart)
+- [Django Multi-Step Session Form](https://github.com/sajjadali-fullstack/django-multi-step-session-form)
+- [Django Quiz Certificates](https://github.com/sajjadali-fullstack/django-quiz-certificates)
+- [QR Restaurant Menu Generator](https://github.com/sajjadali-fullstack/django-qr-restaurant-menu)
+- [Task Manager Django TO-DO](https://github.com/sajjadali-fullstack/django-todo-app)
+- [Employee Dashboard](https://github.com/sajjadali-fullstack/employee-dashboard)
+- [Employee Project](https://github.com/sajjadali-fullstack/employee-project)
+
+---
+
+# 🌶️ Flask Projects (2)
+
+- [Student Management System](https://github.com/sajjadali-fullstack/student-management-flask)
+- [Flask News Portal](https://github.com/sajjadali-fullstack/flask-news-portal)
+
+---
+
+# ⚡ Django REST Framework (DRF) Projects (6)
+
+- [CID Investigation Department API](https://github.com/sajjadali-fullstack/cid-investigation-api)
+- [DRF Generic Views](https://github.com/sajjadali-fullstack/drf-generic-views-employee-api)
+- [DRF — APIView & ViewSet Demo](https://github.com/sajjadali-fullstack/drf-apiview-basics)
+- [Django DRF Employee CRUD API (CBV)](https://github.com/sajjadali-fullstack/drf-employee-crud-cbv-model-seri)
+- [Django Employee API (DRF)](https://github.com/sajjadali-fullstack/rest-api-employee-system)
+- [Smart Inventory System](https://github.com/sajjadali-fullstack/smart-inventory-system)
+
+---
+
+# 🌐 Frontend Projects (14)
+
+- [My Portfolio](https://sajjadali-fullstack-portfolio.netlify.app/)
+- [Online Job Portal](https://github.com/sajjadali-fullstack/online-job-search-portal)
+- [Temp Portfolio](https://github.com/sajjadali-fullstack/sajjad-ali-portfolio)
+- [Universal Search Hub](https://github.com/sajjadali-fullstack/universal-search-hub)
+- [Frontend Roadmap Project](https://github.com/sajjadali-fullstack/pure-html-project-frontend-roadmap)
+- [The Shoe Company](https://github.com/sajjadali-fullstack/footwear-ecommerce-ui)
+- [Image Gallery](https://github.com/sajjadali-fullstack/image-hover-gallery)
+- [Cursor Pointer](https://github.com/sajjadali-fullstack/cursor-magic)
+- [Digital Clock Pro](https://github.com/sajjadali-fullstack/digital-clock-pro)
+- [Real Time Clock](https://github.com/sajjadali-fullstack/real-time-digital-clock)
+- [Bulb ON / OFF Project](https://github.com/sajjadali-fullstack/bulb-on-off-project)
+- [Calculator With Theme Switcher](https://github.com/sajjadali-fullstack/calculator-with-theme-switcher)
+- [Luma Landing Page](https://github.com/sajjadali-fullstack/luma-landing-page)
+- [First index.html](https://github.com/sajjadali-fullstack/first_index.html)
+
+---
+
+# 🐍 Python Projects (5)
+
+- [Python Daily Challenge](https://github.com/sajjadali-fullstack/python-daily-challenges)
+- [Python Daily Challenges 2](https://github.com/sajjadali-fullstack/python-daily-challenges-2)
+- [Bank Management](https://github.com/sajjadali-fullstack/bank-management-python)
+- [Factorial Number](https://github.com/sajjadali-fullstack/Factorial-Number)
+- [Billing Software](https://github.com/sajjadali-fullstack/Billing-software)
+
+---
+
+# 🎨 Fun & Creative Projects (6)
+
+- [Will You Be Mine? 💌](https://github.com/sajjadali-fullstack/propose-day-special-will-you-be-mine-forever)
+- [Valentine Dashboard 💖](https://github.com/sajjadali-fullstack/valentine-dashboard)
+- [Valentine Special Surprise 💖](https://github.com/sajjadali-fullstack/valentine-surprise)
+- [Insta Heart Like](https://github.com/sajjadali-fullstack/insta-heart-like-project)
+- [Advance Friend Request App](https://github.com/sajjadali-fullstack/facebook-style-friend-request-app)
+- [Friend Request](https://github.com/sajjadali-fullstack/friend-request)
+
+
+
+
+---
 # 🌐 Connect With Me
 
 <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
